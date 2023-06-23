@@ -1,0 +1,7 @@
+¡Bienvenido a un emocionante viaje al mundo del HTML! En este viaje, exploraremos las maravillas del lenguaje que hace posible la web tal como la conocemos. Prepárate para descubrir cómo HTML (HyperText Markup Language) se convierte en el lenguaje universal que da vida a las páginas web en Internet.
+
+HTML es el lenguaje fundamental que se utiliza para crear y estructurar el contenido de las páginas web. Es un lenguaje de marcado que utiliza etiquetas para definir la semántica y la estructura de los elementos en una página. Estas etiquetas actúan como bloques de construcción que permiten dar formato al texto, insertar imágenes, crear enlaces, reproducir multimedia y mucho más.
+Con HTML, puedes crear una base sólida para tus páginas web, estableciendo la estructura y organización del contenido. Aunque HTML proporciona la estructura básica, el aspecto visual y el diseño se controlan mediante CSS (Cascading Style Sheets), que es otro lenguaje utilizado en conjunto con HTML.
+A lo largo de esta guía, aprenderás cómo utilizar etiquetas HTML para crear páginas web atractivas y funcionales. Desde la estructura básica hasta elementos avanzados, exploraremos cómo dar forma a tu contenido y cómo interactuar con los usuarios a través de formularios y otros elementos interactivos.
+
+¡Prepárate para sumergirte en el fascinante mundo del HTML y descubrir el poder que tiene para crear la web que nos rodea!
