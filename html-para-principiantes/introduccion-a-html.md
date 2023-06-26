@@ -1,7 +1,75 @@
-¡Bienvenido a un emocionante viaje al mundo del HTML! En este viaje, exploraremos las maravillas del lenguaje que hace posible la web tal como la conocemos. Prepárate para descubrir cómo HTML (HyperText Markup Language) se convierte en el lenguaje universal que da vida a las páginas web en Internet.
+# ¿Qué es HTML?
 
-HTML es el lenguaje fundamental que se utiliza para crear y estructurar el contenido de las páginas web. Es un lenguaje de marcado que utiliza etiquetas para definir la semántica y la estructura de los elementos en una página. Estas etiquetas actúan como bloques de construcción que permiten dar formato al texto, insertar imágenes, crear enlaces, reproducir multimedia y mucho más.
-Con HTML, puedes crear una base sólida para tus páginas web, estableciendo la estructura y organización del contenido. Aunque HTML proporciona la estructura básica, el aspecto visual y el diseño se controlan mediante CSS (Cascading Style Sheets), que es otro lenguaje utilizado en conjunto con HTML.
-A lo largo de esta guía, aprenderás cómo utilizar etiquetas HTML para crear páginas web atractivas y funcionales. Desde la estructura básica hasta elementos avanzados, exploraremos cómo dar forma a tu contenido y cómo interactuar con los usuarios a través de formularios y otros elementos interactivos.
+HTML (HyperText Markup Language) es el lenguaje de marcado estándar utilizado para crear y estructurar el contenido de las páginas web. Permite definir la estructura y presentación de los elementos en una página, como encabezados, párrafos, enlaces, imágenes y más. HTML utiliza etiquetas para marcar los diferentes elementos y proporciona instrucciones al navegador sobre cómo mostrar el contenido.
 
-¡Prepárate para sumergirte en el fascinante mundo del HTML y descubrir el poder que tiene para crear la web que nos rodea!
+# Estructura básica de un documento HTML
+
+Un documento HTML sigue una estructura básica que consta de las siguientes partes:
+```html
+<!DOCTYPE>
+<html>
+    <head>
+        <title>Título de la página</title>
+    </head>
+    <body>
+        <!-- Contenido de la página -->
+    </body>
+</html>
+```
+- `<!DOCTYPE html>`: Esta declaración define la versión de HTML que se utilizará en el documento (HTML5 en este caso).
+- `<html>`: La etiqueta `<html>` es el contenedor principal de todo el contenido de la página.
+- `<head>`: La sección `<head>` proporciona información sobre el documento, como el título de la página que se muestra en la barra de título del navegador.
+- `<title>`: La etiqueta `<title>` define el título de la página, que aparecerá en la pestaña del navegador.
+- `<body>`: El elemento `<body>` contiene el contenido visible de la página web, como texto, imágenes, enlaces, etc.
+
+# Etiquetas y elementos HTML
+
+HTML utiliza etiquetas para marcar y definir diferentes elementos en una página web. Aquí tienes algunos ejemplos de etiquetas comunes:
+- Encabezados: Los encabezados se utilizan para estructurar el contenido de la página en diferentes niveles de importancia. Los encabezados van desde `<h1>` (más importante) hasta `<h6>` (menos importante).
+```html
+1  <h1>Este es un encabezado de nivel 1</h1>
+2  <h2>Este es un encabezado de nivel 2</h2>
+3  <h3>Este es un encabezado de nivel 3</h3>
+4  <h4>Este es un encabezado de nivel 4</h4>
+5  <h5>Este es un encabezado de nivel 5</h5>
+6  <h6>Este es un encabezado de nivel 6</h6>
+```
+- Párrafos: Los párrafos se definen con la etiqueta `<p>`.
+```html
+1  <p>Este es un párrafo de ejemplo.</p>
+```
+- Enlaces: Los enlaces se crean con la etiqueta `<a>`, y se utiliza el atributo `href` para especificar la URL de destino.
+```html
+1  <a href=“https://www.ejemplo.com”>Este es un enlace a Ejemplo</a>
+```
+- Imágenes: Las imágenes se insertan utilizando la etiqueta <img>, y se utiliza el atributo <src> para especificar la URL de la imagen.
+```html
+1  <img src=“ruta-de-la-imagen.jpg” alt="Texto alternativo">
+```
+
+Estos son solo algunos ejemplos de etiquetas y elementos HTML. HTML ofrece una amplia gama de etiquetas y atributos para dar formato y estructura al contenido de una página web.
+
+Recuerda que en HTML, las etiquetas se abren con `<etiqueta>` y se cierran con `</etiqueta>`. El contenido se coloca entre las etiquetas de apertura y cierre.
+
+# Repite lo que aprendiste
+
+Completa los campos de las siguientes etiquetas:
+```html
+1  <!DOCTYPE html>
+2  <html>
+3    <head>
+4      <title>Título de la página</title>
+5    </head>
+6    <body>
+7      <h1>Este es un encabezado de nivel 1</h1>
+8      <h2>Este es un encabezado de nivel 2</h2>
+9      <h3>Este es un encabezado de nivel 3</h3>
+10     <h4>Este es un encabezado de nivel 4</h4>
+11     <h5>Este es un encabezado de nivel 5</h5>
+12     <h6>Este es un encabezado de nivel 6</h6>
+13     <p>Este es un párrafo de ejemplo.</p>
+14     <a href=“https://www.ejemplo.com”>Este es un enlace a Ejemplo</a>
+15     <img src=“ruta-de-la-imagen.jpg” alt="Texto alternativo">
+16   </body>
+17  </html>
+```
