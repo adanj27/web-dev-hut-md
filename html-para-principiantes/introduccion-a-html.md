@@ -27,20 +27,20 @@ Un documento HTML sigue una estructura básica que consta de las siguientes part
 HTML utiliza etiquetas para marcar y definir diferentes elementos en una página web. Aquí tienes algunos ejemplos de etiquetas comunes:
 - Encabezados: Los encabezados se utilizan para estructurar el contenido de la página en diferentes niveles de importancia. Los encabezados van desde `<h1>` (más importante) hasta `<h6>` (menos importante).
 ```html
-<h1>Este es un encabezado de nivel 1</h1>
-<h2>Este es un encabezado de nivel 2</h2>
-<h3>Este es un encabezado de nivel 3</h3>
-<h4>Este es un encabezado de nivel 4</h4>
-<h5>Este es un encabezado de nivel 5</h5>
-<h6>Este es un encabezado de nivel 6</h6>
+<h1>\Este es un encabezado de nivel 1</h1>
+<h2>\Este es un encabezado de nivel 2</h2>
+<h3>\Este es un encabezado de nivel 3</h3>
+<h4>\Este es un encabezado de nivel 4</h4>
+<h5>\Este es un encabezado de nivel 5</h5>
+<h6>\Este es un encabezado de nivel 6</h6>
 ```
 - Párrafos: Los párrafos se definen con la etiqueta `<p>`.
 ```html
-<p>Este es un párrafo de ejemplo.</p>
+<p>Este es un \párrafo de ejemplo.</p>
 ```
 - Enlaces: Los enlaces se crean con la etiqueta `<a>`, y se utiliza el atributo `href` para especificar la URL de destino.
 ```html
-<a href=“https://www.ejemplo.com”>Este es un enlace a Ejemplo</a>
+<a href=“https\://www.ejemplo.com”>Este es un enlace a Ejemplo</a>
 ```
 - Imágenes: Las imágenes se insertan utilizando la etiqueta <img>, y se utiliza el atributo <src> para especificar la URL de la imagen.
 ```html
@@ -68,7 +68,7 @@ Completa los campos de las siguientes etiquetas:
         <h5>Este es un encabezado de nivel 5</h5>
         <h6>Este es un encabezado de nivel 6</h6>
         <p>Este es un párrafo de ejemplo.</p>
-        <a href=“https://www.ejemplo.com”>Este es un enlace a Ejemplo</a>
+        <a href=“https\://www.ejemplo.com”>Este es un enlace a Ejemplo</a>
         <img src=“ruta-de-la-imagen.jpg” alt="Texto alternativo">
     </body>
 </html>
