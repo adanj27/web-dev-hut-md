@@ -58,10 +58,10 @@ Completa los campos de las siguientes etiquetas:
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Título de la página</title>
+        <{$1}>Título de la página</{$1}>
     </head>
     <body>
-        <h1>Este es un encabezado de nivel 1</h1>
+        <{$2}>Este es un encabezado de nivel 1</{$2}>
         <h2>Este es un encabezado de nivel 2</h2>
         <h3>Este es un encabezado de nivel 3</h3>
         <h4>Este es un encabezado de nivel 4</h4>
