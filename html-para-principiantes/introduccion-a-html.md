@@ -37,7 +37,7 @@ HTML utiliza etiquetas para marcar y definir diferentes elementos en una página
 ```html
 <a href="https://www.ejemplo.com">Este es un enlace a Ejemplo</a>
 ```
-- Imágenes: Las imágenes se insertan utilizando la etiqueta <img>, y se utiliza el atributo <src> para especificar la URL de la imagen.
+- Imágenes: Las imágenes se insertan utilizando la etiqueta `<img>`, y se utiliza el atributo `src` para especificar la URL de la imagen.
 ```html
 <img src="ruta-de-la-imagen.jpg" alt="Texto alternativo">
 ```
@@ -62,7 +62,7 @@ Completa los campos de las siguientes etiquetas:
         <{h4}>Este es un encabezado de nivel 4</{h4}>
         <{h5}>Este es un encabezado de nivel 5</{h5}>
         <{h6}>Este es un encabezado de nivel 6</{h6}>
-        <{p}>Este es un párrafo de ejemplo.</{}>
+        <{p}>Este es un párrafo de ejemplo.</{p}>
         <{a} href="https://www.ejemplo.com">Este es un enlace a Ejemplo</{a}>
         <{img} src="ruta-de-la-imagen.jpg" alt="Texto alternativo">
     </body>
