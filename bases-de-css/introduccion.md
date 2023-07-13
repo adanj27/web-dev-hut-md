@@ -1,21 +1,21 @@
 # Introducción
 
-#### ¡Hola!
+## ¡Hola!
 
 Bienvenido a la guía de CSS básico.
 
-#### En esta guía
+## En esta guía
 
 - Aprenderemos los conocimientos esenciales que se necesitan para empezar a darle un mejor aspecto a cualquier sitio web que hagamos.
 - Veremos cómo podemos implementar CSS en una página web.
 - Conoceremos su sintaxis.
 - Adentraremos en cómo funciona CSS.
 
-#### ¿Qué haremos?
+## ¿Qué haremos?
 
 A lo largo de esta guía, realizaremos pequeños proyectos, que nos ayudarán a interiorizar los conceptos esenciales de esta tecnología, y que podremos guardar para verlos o usarlos más adelante como referencias.
 
-#### Antes de continuar
+## Antes de continuar
 
 Ten en cuenta que estamos asumiendo lo siguiente:
 
