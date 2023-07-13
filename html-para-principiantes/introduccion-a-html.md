@@ -7,7 +7,7 @@ HTML (HyperText Markup Language) es el lenguaje de marcado estándar utilizado p
 Un documento HTML sigue una estructura básica que consta de las siguientes partes:
 
 ```html
-<!DOCTYPE >
+<!DOCTYPE>
 <html>
   <head>
     <title>Título de la página</title>
