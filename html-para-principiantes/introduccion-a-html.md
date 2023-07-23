@@ -61,7 +61,8 @@ Recuerda que en HTML, las etiquetas se abren con `<etiqueta>` y se cierran con `
 Completa los campos de las siguientes etiquetas:
 
 ```html
-{{<!DOCTYPE html>
+{{
+<!DOCTYPE html>
 <html>
     <head>
         <title>Título de la página</title>
@@ -77,5 +78,6 @@ Completa los campos de las siguientes etiquetas:
         <a href="https://www.ejemplo.com">Este es un enlace a Ejemplo</a>
         <img src="ruta-de-la-imagen.jpg" alt="Texto alternativo">
     </body>
-</html>}}
+</html>
+}}
 ```
